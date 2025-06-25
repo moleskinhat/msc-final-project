@@ -1,14 +1,10 @@
-## msc-computer-science-project-2020_21---files-sbader01BBK1
+## Project
 
 This repository contains the project for Poetry Analyser.
 Poetry Analyser performs the analysis of poetic devices in English-language poems (e.g., rhyme scheme, alliteration, 
 assonance, enjambment, caesura) with the aim of enhancing the practice of close reading. 
 Primarily targeted at English Literature students, this application hopes to help users develop their close reading and 
 analytical skills by encouraging them to get stuck into a text's literary devices, language, and patterns.
-
-Author: Samuel Baderman
-
-In fulfilment of MSc Computer Science degree at Birkbeck College, University of London
 
 ## Installation
 Installation is self-contained using Python's setuptools. Dependencies are specified in the `setup.py` python file. 
